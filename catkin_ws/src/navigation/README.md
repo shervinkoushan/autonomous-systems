@@ -1,6 +1,6 @@
 # Navigation
 
-We use the below structure to identify and navigate towards unknown space. The navigation node uses the methods defined by the Navigator class for the implementation. It runs [this](https://gitlab.lrz.de/00000000014ACFEA/autonomous-systems-2021-group-auto/-/blob/main/AdvancedChallenge1SimAndMapping/catkin_ws/src/navigation/src/navigation_node.cc#L19) loop, where it continously checks the termination criteria listed at the bottom of this page.
+We use the below structure to identify and navigate towards unknown space. The navigation node uses the methods defined by the Navigator class for the implementation. It runs [this](src/navigation_node.cc#L19) loop, where it continously checks the termination criteria listed at the bottom of this page.
 
 ![structure](../../../images/Copy_of_Auto_overview.drawio.png)
 
