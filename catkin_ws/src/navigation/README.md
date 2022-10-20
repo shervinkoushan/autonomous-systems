@@ -1,6 +1,6 @@
 # Navigation
 
-We use the below structure to identify and navigate towards unknown space. The navigation node uses the methods defined by the Navigator class for the implementation. It runs [this](src/navigation_node.cc#L19) loop, where it continously checks the termination criteria listed at the bottom of this page.
+We use the below structure to identify and navigate towards unknown space. The navigation node uses the methods defined by the Navigator class for the implementation. It runs [this](src/navigation_node.cc#L22) loop, where it continously checks the termination criteria listed at the bottom of this page.
 
 ![structure](../../../images/Copy_of_Auto_overview.drawio.png)
 
