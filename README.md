@@ -1,6 +1,11 @@
-# Group Projects - Advanced Challenge 1 – Simulation & Mapping
+# Advanced Challenge 1 – Simulation & Mapping
 
-**Task: Use a mapping approach of your choice to navigate an unknown environment**
+This is a project for the course LRG6300: Autonomous Systems at the Technical University of Munich.
+
+**Task: Use a mapping approach of our choice to navigate an unknown environment**
+
+Done in collaboration with Weihang Li, Luca Obwegs, Junpeng Hu and Autumn Hong.
+
 
 ## Overview
 
